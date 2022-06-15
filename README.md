@@ -1,2 +1,2 @@
  👋 Hi, I’m @fasilpaloli
-  Co-Founder of @osperbinnovations
+  Co-founder of @osperbinnovations
