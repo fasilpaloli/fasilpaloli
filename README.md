@@ -1,6 +1,6 @@
 # Full Stack Developer - MERN 👨‍💻
 
-Hi there! I'm Fasil, a dedicated Full Stack Developer specializing in MERN stack technologies. With a passion for creating efficient, scalable, and user-friendly web applications, I have successfully delivered diverse projects across various industries, including e-commerce, project management, ERP solutions, and membership management systems.
+Hi there! I'm Fasil Paloli, a dedicated Full Stack Developer specializing in MERN stack technologies. With a passion for creating efficient, scalable, and user-friendly web applications, I have successfully delivered diverse projects across various industries, including e-commerce, project management, ERP solutions, and membership management systems.
 
 ## 🔧 My Skills
 - MERN Stack: MongoDB, Express, React, Node.js
