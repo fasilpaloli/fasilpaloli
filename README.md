@@ -6,7 +6,8 @@ Hi there! I'm Fasil Paloli, a dedicated Full Stack Developer specializing in MER
 - MERN Stack: MongoDB, Express, React, Node.js
 - HTML, CSS, JavaScript, TypeScript
 - Git, GitHub, CI/CD
-- RESTful APIs, GraphQL
+- RESTful APIs
+- Server Deployment
 - Agile methodologies
 
 ## 🌟 Key Projects
